@@ -25,8 +25,6 @@ You will need an IDE to run this project locally. I recommend Android Studio as 
 
 #
 <div align=right>
-  <h6>README.md created with thanks to:
-  <br>ReadMe Typing SVG: <a href="https://git.io/typing-svg">DenverCoder1</a>
-  <br>Markdown Badges: <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a></h6>
-
+  <h6>Project created with thanks to: <a href="https://github.com/londonappbrewery">London App Brewery</a>
+    <br>README.md created with thanks to: <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a></h6>
 </div>
